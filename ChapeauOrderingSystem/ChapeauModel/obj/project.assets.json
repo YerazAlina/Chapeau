@@ -180,20 +180,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gebruiker\\.nuget\\packages\\": {}
+    "C:\\Users\\yeraz\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\Source\\Repos\\merelbongenaar\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
+      "projectUniqueName": "C:\\Users\\yeraz\\source\\repos\\year 1\\project 1.4\\RestaurantOrderingSystemChapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
       "projectName": "ChapeauModel",
-      "projectPath": "C:\\Users\\Gebruiker\\Source\\Repos\\merelbongenaar\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
-      "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\Source\\Repos\\merelbongenaar\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\obj\\",
+      "projectPath": "C:\\Users\\yeraz\\source\\repos\\year 1\\project 1.4\\RestaurantOrderingSystemChapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
+      "packagesPath": "C:\\Users\\yeraz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yeraz\\source\\repos\\year 1\\project 1.4\\RestaurantOrderingSystemChapeau\\ChapeauOrderingSystem\\ChapeauModel\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\yeraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
