@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RF6dQdPq8hijro55Own5117ghMAyNmsxQfRR5aJ4n0vfl379dlMhWoPj9BccssDCP3IK+iuHeEFGxAqj94TNkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yeraz\\source\\repos\\year 1\\project 1.4\\RestaurantOrderingSystemChapeau\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeraz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yeraz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
