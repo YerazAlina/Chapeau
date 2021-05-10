@@ -1004,25 +1004,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yeraz\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yeraz\\source\\repos\\year 1\\project 1.4\\RestaurantOrderingSystemChapeau\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
       "projectName": "ChapeauDAL",
-      "projectPath": "C:\\Users\\yeraz\\source\\repos\\year 1\\project 1.4\\RestaurantOrderingSystemChapeau\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
-      "packagesPath": "C:\\Users\\yeraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yeraz\\source\\repos\\year 1\\project 1.4\\RestaurantOrderingSystemChapeau\\ChapeauOrderingSystem\\chapeauDAL\\obj\\",
+      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
+      "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\yeraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
