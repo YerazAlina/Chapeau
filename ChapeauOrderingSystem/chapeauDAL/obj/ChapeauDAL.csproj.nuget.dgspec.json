@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj": {}
+    "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj": {
+    "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
         "projectName": "ChapeauDAL",
-        "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
-        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauDAL\\obj\\",
+        "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauDAL\\ChapeauDAL.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sRJqKMSkw+UDRE6aga+tAC3NQoQBm5i7Q/QGZ0qaxVtJin/qqHiDIN9mcpnuBotuJTJWX/7auRfpJbxHZjyphg==",
+  "dgSpecHash": "KRtipmAydEAFF4T5Sui/UzIX+6DzjQlOb4IqZHNAAy3xeUrctrG221ozH6FjBBVMsOuGKo/3VYHUy49ygd/G3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
+  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gebruiker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Gebruiker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj": {}
+    "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj": {
+    "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
         "projectName": "ChapeauModel",
-        "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
-        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\ChapeauModel\\obj\\",
+        "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\ChapeauModel.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\ChapeauModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

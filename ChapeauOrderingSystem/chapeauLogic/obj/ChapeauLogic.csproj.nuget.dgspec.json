@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj": {}
+    "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj": {
+    "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj",
         "projectName": "ChapeauLogic",
-        "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj",
-        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\2\\ChapeauOrderingSystem\\chapeauLogic\\obj\\",
+        "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauLogic\\ChapeauLogic.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moham\\OneDrive\\Desktop\\proj22\\Chapeau\\ChapeauOrderingSystem\\chapeauLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
